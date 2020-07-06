@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=AdvancedAurInstaller
+Icon=
+Exec=sh ~/aai/AAI.sh
+Type=Application
+Terminal=false
+Comment=Install AUR Packages easier!
